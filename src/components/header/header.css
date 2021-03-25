@@ -3,6 +3,10 @@
   height: 4rem;
   background-color: #fff;
   box-shadow: 16px 8px 4px rgb(0 0 0 / 25%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 5rem;
 }
 .logo {
   font-family: Kaushan Script;
@@ -12,4 +16,7 @@
   line-height: 58px;
   color: #5be3c2;
   margin-left: 3rem;
+}
+.radio-wrapper {
+  margin-right: 5rem;
 }

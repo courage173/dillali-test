@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #e5e5e5;
   color: rgba(0, 0, 0, 0.5);
+}
+.layout-wrapper {
+  width: 100%;
+  max-width: 70%;
+  margin-left: 3rem;
+  display: flex;
+}
+.App {
+  height: 100vh;
 }
